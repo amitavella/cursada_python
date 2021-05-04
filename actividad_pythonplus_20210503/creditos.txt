@@ -1,0 +1,6 @@
+Créditos datasets sobre países:
+https://archive.ics.uci.edu/ml/datasets/Flags
+En el archivo "flag.names" está detallado qué dato representa cada  columna.
+
+Créditos para listings de Airbnb
+http://insideairbnb.com/get-the-data.html  
